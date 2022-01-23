@@ -27,7 +27,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>wsjava.Loader</mainClass>
+                            <mainClass>bin.wsjava.Loader</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
